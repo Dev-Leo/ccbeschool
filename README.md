@@ -18,6 +18,7 @@ datas = {
 ```
 推荐使用
 [Json在线解析及格式化](https://www.json.cn/)
+
 最后在
 ```
 post_url = "You DingTalk Api"
@@ -27,7 +28,7 @@ post_url = "You DingTalk Api"
 
     }
 ```
-填入钉钉webhook机器人Api,和您的关键词即可完成此脚本的配置
+填入钉钉webhook机器人Api,和您的关键词即可完成此脚本的配置（[如何申请钉钉WebHook API?](https://www.baidu.com/s?tn=80035161_2_dg&wd=%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E9%92%89%E9%92%89WebHook+API)）
 
 ## **运行**
 Linux可以采用**crontab**定时执行
