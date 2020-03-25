@@ -4,7 +4,9 @@
 由于老是忘记，便撸出此脚本
 ## **用法**
 您只需抓包如何将Cookie填入至request()模块的
-```cs = {'Cookie': 'Your Cookie'}```
+```
+cs = {'Cookie': 'Your Cookie'}
+```
 处
 然后将Post上传的内容抓包并格式化处理，填至
 ```
